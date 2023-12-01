@@ -7,7 +7,7 @@ public class holamundo {
 		
 		System.out.println("hola chavales");
 		System.out.println("que pasa colega");
-		System.out.println("otro sysout");
+		System.out.println("otro syssout");
 
 	}
 	
